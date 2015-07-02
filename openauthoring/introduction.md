@@ -15,6 +15,6 @@ Let's start!
 
 Localization configure is ready!!
 
-ja-JP I am Qin Mu!2
+ja-JP I am Qin Mu!
 
 
